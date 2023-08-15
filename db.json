@@ -1,0 +1,37 @@
+{
+  "employee": [
+    {
+      "id": 2,
+      "name": "Nancy",
+      "email": "nancy_yadav@gmail.com",
+      "phone": "9234567891"
+    },
+    {
+      "name": "Laharika",
+      "email": "lchinthakayala@gmail.com",
+      "phone": "9078563412",
+      "active": true,
+      "id": 3
+    },
+    {
+      "name": "Revathi",
+      "email": "rneerukonda1@gmail.com",
+      "phone": "6789012345",
+      "active": true,
+      "id": 4
+    },
+    {
+      "name": "Sowjanya",
+      "email": "skolli@gmail.com",
+      "phone": "6303456789",
+      "active": true,
+      "id": 5
+    },
+    {
+      "id": 6,
+      "name": "Kirti",
+      "email": "kpani@gmail.com",
+      "phone": "7890563429"
+    }
+  ]
+}
